@@ -90,45 +90,64 @@
 
 ### 2021
 
-. 
+. Control-Aware Representations for Model-based Reinforcement Learning
 
-. 
+. Contrastive Behavioral Similarity Embeddings for Generalization in Reinforcement Learning
 
-. 
+. Representation Balancing Offline Model-based Reinforcement Learning
 
-. 
+. Off-Dynamics Reinforcement Learning: Training for Transfer with Domain Classifiers
 
-. 
+. Learning Invariant Representations for Reinforcement Learning without Reconstruction
 
-. 
+. Data-Efficient Reinforcement Learning with Self-Predictive Representations
 
-. 
+. Image Augmentation Is All You Need: Regularizing Deep Reinforcement Learning from Pixels
 
+. Return-Based Contrastive Representation Learning for Reinforcement Learning
 
 ### 2020
 
-. 
+. Dynamics-Aware Embeddings
 
-. 
+. Is a Good Representation Sufficient for Sample Efficient Reinforcement Learning?
 
-. 
-
-. 
-
-. 
-
-. 
-
-. 
-
+. DREAM TO CONTROL: LEARNING BEHAVIORS BY LATENT IMAGINATION
 
 ## ICML
 
 ### 2022
 
+. DreamerPro: Reconstruction-Free Model-Based Reinforcement Learning with Prototypical Representations
+
+. Robust Task Representations for Offline Meta-Reinforcement Learning via Contrastive Learning
+
+. EQR: EQUIVARIANT REPRESENTATIONS FOR DATA-EFFICIENT REINFORCEMENT LEARNING
+
 ### 2021
+. Reinforcement Learning with Prototypical Representations
+
+. RRL: Resnet as representation for Reinforcement Learning
+
+. Towards Better Laplacian Representation in Reinforcement Learning with Generalized Graph Drawing
+
+. Decoupling Representation Learning from Reinforcement Learning
+
+. Multi-Task Reinforcement Learning with Context-based Representations
+
+. Variational Empowerment as Representation Learning for Goal-Conditioned Reinforcement Learning
+
+. A Deep Reinforcement Learning Approach to Marginalized Importance Sampling with the Successor Representation
+
 
 ### 2020
+. CURL: Contrastive Unsupervised Representations for Reinforcement Learning
+
+. Representations for Stable Off-Policy Reinforcement Learning
+
+. Bootstrap Latent-Predictive Representations for Multitask Reinforcement Learning
+
+. Skew-Fit: State-Covering Self-Supervised Reinforcement Learning
 
 ## AAAI
 
